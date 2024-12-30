@@ -17,6 +17,6 @@ public class TernaryOperator {
  * ternary operator syntax: condition ? true_value : false_value
  * x=10
  * x>5 , 10>5 => true
- * x<10, 10<10 =>false
+ * 1st operation, x<10, 10<10 =>false,2
  * y=2
  */
