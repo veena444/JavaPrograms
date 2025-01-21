@@ -11,6 +11,7 @@ public class GivenNumberIsPowerOf2 {
 	}
 	
 	public static boolean isPowerOfTwo(int n) {
+		//a number is a power of 2  if( n & (n-1)) == 0 and n>0
 		return n > 0 && (n & (n-1)) == 0;
 	}
 
