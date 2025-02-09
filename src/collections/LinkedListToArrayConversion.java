@@ -14,6 +14,7 @@ public class LinkedListToArrayConversion {
 		list.add(50);
 		
 		System.out.println("LinkedList:"+list);
+		System.out.println(list.size());
 		
 		Object[] obj = list.toArray();
 		for(Object e: obj) {
