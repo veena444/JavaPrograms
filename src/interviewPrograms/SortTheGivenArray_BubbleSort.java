@@ -2,7 +2,7 @@ package interviewPrograms;
 
 import java.util.Arrays;
 
-public class SortTheGivenArray {
+public class SortTheGivenArray_BubbleSort {
 
 	public static void main(String[] args) {
 		int[] arr = {0,2,9,4,0,6,7,8,0,1};
