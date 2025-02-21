@@ -5,7 +5,7 @@ package array;
 public class ArrayIsSorted {
 
 	public static void main(String[] args) {
-		int[] nums = {10};
+		int[] nums = {10,30,50,20,40};
 		int n = nums.length;
 		System.out.println(ifSorted(nums,n));
 

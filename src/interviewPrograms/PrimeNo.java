@@ -3,7 +3,7 @@ package interviewPrograms;
 public class PrimeNo {
 
 	public static void main(String[] args) {
-		int n = 1;
+		int n = 5;
 		System.out.println(isPrime(n));
 
 	}
