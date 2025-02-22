@@ -2,7 +2,7 @@ package arraySorting;
 
 import java.util.Arrays;
 
-public class UsingLoops_BubbleSort {
+public class BubbleSort {
 
 	public static void main(String[] args) {
 		int[] arr = {5,6,3,1,8,4,0,2,7,0};
